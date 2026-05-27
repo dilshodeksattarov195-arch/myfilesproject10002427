@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifyselete",
+        "uuid": 701403,
+        "checksum": "l2rwcj"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
